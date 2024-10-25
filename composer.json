@@ -1,0 +1,17 @@
+{
+    "name": "krsaas/core",
+    "description": "KrSaaS Core Component.",
+    "type": "library",
+    "require": {
+        "hyperf/framework": "~3.1",
+        "hyperf/async-queue": "~3.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "krsaas",
+            "email": "krsaas@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
